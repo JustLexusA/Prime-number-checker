@@ -1,4 +1,4 @@
-const number = 67;
+const number = 180;
 let PrimeNumber;
 let PrimeText;
 
