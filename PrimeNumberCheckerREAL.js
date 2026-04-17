@@ -18,7 +18,7 @@ function CheckIfPrime() {
             }
         }
     }
-
+    // Display the result
     fill('rgb(0, 0, 0)')
     textAlign(CENTER, CENTER)
     textSize(32)
